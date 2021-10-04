@@ -1,0 +1,9 @@
+C:\NetCore\LocalCloud\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+C:\NetCore\LocalCloud\Domain\bin\Release\netcoreapp3.1\Domain.dll
+C:\NetCore\LocalCloud\Domain\bin\Release\netcoreapp3.1\Domain.pdb
+C:\NetCore\LocalCloud\Domain\obj\Release\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\NetCore\LocalCloud\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\NetCore\LocalCloud\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\NetCore\LocalCloud\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\NetCore\LocalCloud\Domain\obj\Release\netcoreapp3.1\Domain.dll
+C:\NetCore\LocalCloud\Domain\obj\Release\netcoreapp3.1\Domain.pdb

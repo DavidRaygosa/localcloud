@@ -1,0 +1,14 @@
+C:\NetCore\LocalCloud\Application\bin\Release\netcoreapp3.1\Application.deps.json
+C:\NetCore\LocalCloud\Application\bin\Release\netcoreapp3.1\Application.dll
+C:\NetCore\LocalCloud\Application\bin\Release\netcoreapp3.1\Application.pdb
+C:\NetCore\LocalCloud\Application\bin\Release\netcoreapp3.1\Domain.dll
+C:\NetCore\LocalCloud\Application\bin\Release\netcoreapp3.1\Persistence.dll
+C:\NetCore\LocalCloud\Application\bin\Release\netcoreapp3.1\Domain.pdb
+C:\NetCore\LocalCloud\Application\bin\Release\netcoreapp3.1\Persistence.pdb
+C:\NetCore\LocalCloud\Application\obj\Release\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\NetCore\LocalCloud\Application\obj\Release\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\NetCore\LocalCloud\Application\obj\Release\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\NetCore\LocalCloud\Application\obj\Release\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\NetCore\LocalCloud\Application\obj\Release\netcoreapp3.1\Application.csproj.CopyComplete
+C:\NetCore\LocalCloud\Application\obj\Release\netcoreapp3.1\Application.dll
+C:\NetCore\LocalCloud\Application\obj\Release\netcoreapp3.1\Application.pdb

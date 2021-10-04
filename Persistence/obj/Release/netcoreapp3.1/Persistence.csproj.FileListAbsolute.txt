@@ -1,0 +1,15 @@
+C:\NetCore\LocalCloud\Persistence\bin\Release\netcoreapp3.1\Persistence.deps.json
+C:\NetCore\LocalCloud\Persistence\bin\Release\netcoreapp3.1\Persistence.runtimeconfig.json
+C:\NetCore\LocalCloud\Persistence\bin\Release\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+C:\NetCore\LocalCloud\Persistence\bin\Release\netcoreapp3.1\Persistence.dll
+C:\NetCore\LocalCloud\Persistence\bin\Release\netcoreapp3.1\Persistence.pdb
+C:\NetCore\LocalCloud\Persistence\bin\Release\netcoreapp3.1\Domain.dll
+C:\NetCore\LocalCloud\Persistence\bin\Release\netcoreapp3.1\Domain.pdb
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.dll
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.pdb
+C:\NetCore\LocalCloud\Persistence\obj\Release\netcoreapp3.1\Persistence.genruntimeconfig.cache

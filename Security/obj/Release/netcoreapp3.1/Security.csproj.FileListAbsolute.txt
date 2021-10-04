@@ -1,0 +1,16 @@
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Security.deps.json
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Security.dll
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Security.pdb
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Application.dll
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Domain.dll
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Persistence.dll
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Application.pdb
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Domain.pdb
+C:\NetCore\LocalCloud\Security\bin\Release\netcoreapp3.1\Persistence.pdb
+C:\NetCore\LocalCloud\Security\obj\Release\netcoreapp3.1\Security.csprojAssemblyReference.cache
+C:\NetCore\LocalCloud\Security\obj\Release\netcoreapp3.1\Security.AssemblyInfoInputs.cache
+C:\NetCore\LocalCloud\Security\obj\Release\netcoreapp3.1\Security.AssemblyInfo.cs
+C:\NetCore\LocalCloud\Security\obj\Release\netcoreapp3.1\Security.csproj.CoreCompileInputs.cache
+C:\NetCore\LocalCloud\Security\obj\Release\netcoreapp3.1\Security.csproj.CopyComplete
+C:\NetCore\LocalCloud\Security\obj\Release\netcoreapp3.1\Security.dll
+C:\NetCore\LocalCloud\Security\obj\Release\netcoreapp3.1\Security.pdb

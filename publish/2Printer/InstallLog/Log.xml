@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Log>
+<Header AppName="2Printer" LoggingStartTime="2021-05-18T17:26:21.0992415-05:00">
+Application Ver 7.1, free version, Run as admin=True, x64, Start time=2021-05-18 17:26:20, LogVerbosity=Verbose
+Virtual machine not detected
+Windows version "Win10" x64
+Windows uptime 1 hours, 52 min
+Physical memory 16,716,420 Kb total, 10,971,204 Kb free
+Virtual memory 137,438,953,344 Kb total, 137,434,113,908 Kb free
+Computer name "DESKTOP-R2R20IB"
+Locale SystemDefault="es-MX", "2Printer"="es-MX"
+User "PC", in admin group=True</Header>
+<R T="H8mN9ksa2Yg" A="i">
+Installation: silent activation=True, check for updates=True
+</R>
+<R T="H8mN9ksa2Yg" A="i">
+Settings mode=SeparateForEachUser. This is default for "2Printer".
+</R>
+<R T="YrOP9ksa2Yg" A="io">
+Installation data created
+</R>
+<R T="-v369ksa2Yg" A="io">
+SEO Ok
+</R>
+<R T="-v369ksa2Yg" A="io">
+Registry completed</R>
+<R T="-v369ksa2Yg" A="io">
+Installation completed</R>
+</Log>
